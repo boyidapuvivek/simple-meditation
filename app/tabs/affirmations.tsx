@@ -3,9 +3,12 @@ import React from 'react'
 
 export default function affirmations() {
   return (
-    <View>
-      
-    </View>
+    <Text
+      style={{fontSize:40,
+      }}
+    >
+      Let's join the meditation club
+    </Text>
   )
 }
 
